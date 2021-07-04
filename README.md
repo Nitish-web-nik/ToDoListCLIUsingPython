@@ -1,5 +1,6 @@
 # Todo CLI application
 
+
 # Use cases 
 - Create a todo list
 - show all the todo list 
